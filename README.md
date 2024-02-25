@@ -1,0 +1,1 @@
+This is a newly designed package management model for cross-version, cross-platform packages and easier package access for scenarios like test scripts and internal used application wraps.
