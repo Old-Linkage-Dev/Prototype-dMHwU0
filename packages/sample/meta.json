@@ -1,0 +1,12 @@
+{
+    "name": "Sample Package",
+    "description": "",
+    "authors": [],
+    "version": "1.0",
+    "build": "${timestamp}",
+    "alias": [],
+    "os-arch": [],
+    "requirements": [],
+    "commands": [],
+    "flags": []
+}
